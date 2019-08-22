@@ -4,6 +4,7 @@
         "kount_enabled": false
     },
     "ios": {
+        "kount_enabled": true
     },
     "android": {
     },
