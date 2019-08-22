@@ -1,11 +1,11 @@
 {
     "ios": {
-
+        "kount_enabled": false
     },
     "android": {
-
+        "kount_enabled": false
     },
     "web": {
-
+        "kount_enabled": true
     }
 }
