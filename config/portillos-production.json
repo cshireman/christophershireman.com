@@ -1,12 +1,11 @@
 {
     "global": {
-        "nomnom_api_url": "my-api.portillos.com"
+        "nomnom_api_url": "my-api.portillos.com",
+        "kount_enabled": false
     },
     "ios": {
-        "kount_enabled": false
     },
     "android": {
-        "kount_enabled": false
     },
     "web": {
         "kount_enabled": true
