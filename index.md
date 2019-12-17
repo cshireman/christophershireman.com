@@ -4,4 +4,3 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-[Noodles Login](https://order.noodles.com/account/login)
