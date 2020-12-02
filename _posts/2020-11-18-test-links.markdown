@@ -22,6 +22,8 @@ once testing is complete.
 
 [Inbox][Inbox]
 
+[Recent Orders][RecentOrders]
+
 [StartOrder]: https://noodles.app.link/StartOrder
 [LocationSearch]: https://noodles.app.link/LocationSearch
 [SignUp]: https://noodles.app.link/SignUp
@@ -29,3 +31,4 @@ once testing is complete.
 [Rewards]: https://noodles.app.link/Rewards
 [Challenges]: https://noodles.app.link/Challenges
 [Inbox]: https://noodles.app.link/Inbox
+[RecentOrders]: https://noodles.app.link/RecentOrders
