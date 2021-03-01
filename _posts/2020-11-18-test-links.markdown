@@ -24,7 +24,7 @@ once testing is complete.
 
 [Recent Orders][RecentOrders]
 
-[Rewards][Reward Details]
+[Reward Details][Rewards]
 
 [StartOrder]: https://noodles.app.link/StartOrder
 [LocationSearch]: https://noodles.app.link/LocationSearch
