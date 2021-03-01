@@ -23,6 +23,7 @@ once testing is complete.
 [Inbox][Inbox]
 
 [Recent Orders][RecentOrders]
+
 [Rewards][Reward Details]
 
 [StartOrder]: https://noodles.app.link/StartOrder
